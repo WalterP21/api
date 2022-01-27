@@ -5,3 +5,4 @@ Generated articles model
 ```
 rails g model article title content:text slug
 ```
+
